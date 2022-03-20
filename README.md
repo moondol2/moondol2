@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @moondol2
+- 👀 I’m interested in python
+- 🌱 I’m currently learning telegram bot
